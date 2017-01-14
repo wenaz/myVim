@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/labofbigdata/projects/testSpark/src/main/scala/SimpleApp.scala'
+let g:netrw_dirhist_2='/home/labofbigdata/projects/usb/sbt/conf'
+let g:netrw_dirhist_3='/home/labofbigdata/projects/usb/sbt/ivy'
+let g:netrw_dirhist_4='/home/labofbigdata/projects/testSpark/project'
+let g:netrw_dirhist_5='/home/labofbigdata/.sbt'
+let g:netrw_dirhist_6='/home/labofbigdata/projects/testSpark/target/SimpleApp.py'
+let g:netrw_dirhist_7='/home/labofbigdata/.vim'
